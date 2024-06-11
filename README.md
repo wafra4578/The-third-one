@@ -1,4 +1,2 @@
-# The-third-one
-Practice1
-How to make a repository, wire dolphins
-lalala
+BY writing cat>READM.md i can add more stuff
+hello
